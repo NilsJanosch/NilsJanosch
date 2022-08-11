@@ -1,6 +1,6 @@
 ### About Me 🧑🏽
 
-##Languages:
+###Languages:
 HTML basics
 CSS basics
 JavaScript (currently learning)
