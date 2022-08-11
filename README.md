@@ -10,6 +10,5 @@
 
 ## About My Repositories
 
-#### The code i wrote in the Repositories like Snake, Calculator and TicTacToe is all imitated from tutorial on YouTube.
-#### Thats because im just **learning** to programm. [a link](youtube.com)
-
+#### The code i wrote in the Repositories like [TicTacToe](https://github.com/NilsJanoschSchlegel/TicTacToe), [Snake](https://github.com/NilsJanoschSchlegel/Snake)  and [Calculator](https://github.com/NilsJanoschSchlegel/Calculator) is all imitated from tutorial on YouTube.
+#### Thats because im just **learning** to programm. 
