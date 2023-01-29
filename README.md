@@ -6,8 +6,8 @@
 
 ## About Me
 - 14\.
-- developer
-- starting to worka as a software dev soon
+- Certified Hood Classic
+- starting to work as a software dev soon
 - NiJo2.n#8182
 
 
