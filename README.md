@@ -5,10 +5,9 @@
 <img width="50%" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=NilsJanosch&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="You shouldn't be seeing this. Activity Graph failed to load.">
 
 ## About Me
-- 14\.
-- Certified Hood Classic
+- 15
 - starting to work as a software dev soon
-- NiJo2.n#8182
+- truthy_dev
 
 
 ## Languages
