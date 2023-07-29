@@ -6,7 +6,7 @@
 
 ## About Me
 - 15
-- starting to work as a software dev soon
+- Software Developer
 - truthy_dev
 
 
