@@ -8,7 +8,7 @@
 - 15
 - Software Developer
 - truthy_dev
-
+(recently deleted about 70 repos, that's why my commit board thing is kinda empty)
 
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
