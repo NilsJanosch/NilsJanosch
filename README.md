@@ -8,6 +8,7 @@
 - 15
 - Software Developer
 - truthy_dev
+
 (recently deleted about 70 repos, that's why my commit board thing is kinda empty)
 
 ## Languages
