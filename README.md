@@ -103,4 +103,3 @@
 <img src="https://raw.githubusercontent.com/NilsJanosch/NilsJanosch/output/snake.svg" alt="Snake animation" />
 
 ###
-
